@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Renata Moura 😁
+## Bem-vindo(a) ao perfil de Renata Moura 
 
  <div>
    <a href="https://github.com/renataalvesc">
