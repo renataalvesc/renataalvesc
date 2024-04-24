@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil de Renata Moura 
 
- <div>
-   <a href="https://github.com/renataalvesc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renataalvesc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalvesc&layout=compact&langs_count=6&theme=dracula"/>
+ <div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=renataalvesc&theme=violet-dark&hide_border=falso&card_width=900)](https://git.io/streak-stats)
+  
 
 </div>
 <div align="center" valign="top"><br>
