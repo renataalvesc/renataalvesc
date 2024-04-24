@@ -1,4 +1,10 @@
-## Bem-vindo(a) ao perfil de Renata Moura 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&color=F71ABA&center=&vCenter=&repeat=&random=&width=435&lines=Ol%C3%A1%2C++sou+Renata+Moura;Bem+Vindo)](https://git.io/typing-svg)
+ 
+</div>
+
+
 
  <div align="center">
 
